@@ -142,23 +142,6 @@ docs/
 
 ---
 
-# Setup Instructions
-
-1 Clone the repository
-
-git clone https://github.com/yourusername/ai-natural-language-sql-agent.git
-
-2 Install and run n8n
-
-3 Import workflow files into n8n
-
-4 Add Google Gemini API key
-
-5 Connect Supabase PostgreSQL database
-
-6 Start the workflow and ask questions in natural language
-
----
 
 # Output
 
@@ -177,6 +160,3 @@ Support complex analytical queries
 
 ---
 
-# Author
-
-Mohan B
