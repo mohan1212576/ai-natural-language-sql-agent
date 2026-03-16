@@ -98,25 +98,20 @@ The AI agent dynamically retrieves information from these tables.
 
 Main Workflow
 
-https://n8n.io/workflows/
+![](https://github.com/mohan1212576/ai-natural-language-sql-agent/blob/main/Main%20Workflow.png)
 
 SQL Execution Workflow
 
-https://n8n.io/workflows/
-
-*(Replace with your workflow export or public workflow links)*
+![](https://github.com/mohan1212576/ai-natural-language-sql-agent/blob/main/Sub%20Workflow.png)
 
 ---
 
 # Database Link
 
-Supabase Project Dashboard
-
-https://supabase.com/dashboard
 
 Database Tables
 
-https://supabase.com/dashboard/project/your_project_id/database/tables
+![](https://github.com/mohan1212576/ai-natural-language-sql-agent/blob/main/Data%20Tables.png)
 
 ---
 
