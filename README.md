@@ -85,9 +85,9 @@ Forecast monthly data returned from the database.
 
 The database hosted on Supabase contains multiple tables such as:
 
-customer
-fact_forecast_monthly
-fact_freight_cost
+customer,
+fact_forecast_monthly,
+fact_freight_cost,
 fact_gross_price
 
 The AI agent dynamically retrieves information from these tables.
